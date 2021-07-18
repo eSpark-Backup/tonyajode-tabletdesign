@@ -1,0 +1,34 @@
+Change Component Description : Designator=Q3 Old Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS New Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS
+Change Component Description : Designator=Q6 Old Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS New Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS
+Added Component: Designator=J15(693043020611)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Connector Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "693043020611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.69, 10=1.663, 50=1.54, 100=1.417, 500=1.232 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "21915"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5954-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USIM_VDD Pin=J15-C1
+Added Pin To Net: NetName=USIM_RST Pin=J15-C2
+Added Pin To Net: NetName=USIM_CLK Pin=J15-C3
+Added Pin To Net: NetName=GND Pin=J15-C5
+Added Pin To Net: NetName=USIM_DATA Pin=J15-C7
+Added Pin To Net: NetName=GND Pin=J15-MP1
+Added Pin To Net: NetName=GND Pin=J15-MP2
+Added Pin To Net: NetName=GND Pin=J15-MP3
+Added Pin To Net: NetName=GND Pin=J15-MP4
+Added Pin To Net: NetName=GND Pin=J15-MP5
+Added Pin To Net: NetName=GND Pin=J15-MP6
+Added Pin To Net: NetName=GND Pin=U3-81
+Added Member To Class: ClassName=U_USIM_Sec Member=Component J15 693043020611

@@ -1,0 +1,4 @@
+Change Component Description : Designator=Q3 Old Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS New Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS
+Change Component Description : Designator=Q6 Old Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS New Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS
+Added Pin To Net: NetName=GND Pin=J3-MP1
+Added Pin To Net: NetName=GND Pin=J3-MP2
