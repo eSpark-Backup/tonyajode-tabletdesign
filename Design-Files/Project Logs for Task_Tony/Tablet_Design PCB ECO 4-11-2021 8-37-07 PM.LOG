@@ -1,0 +1,294 @@
+Removed Pin From Net: NetName=VBAT_USB Pin=D9-1
+Removed Pin From Net: NetName=VBAT_USB Pin=R81-2
+Removed Pin From Net: NetName=MCU_SDA_1 Pin=R89-1
+Removed Pin From Net: NetName=MCU_SCL_1 Pin=R93-1
+Removed Pin From Net: NetName=MCU_PWREN_SYS Pin=R97-1
+Removed Pin From Net: NetName=MCU_PWREN_SYS Pin=R109-2
+Removed Pin From Net: NetName=MCU_SDA_1 Pin=R112-2
+Removed Pin From Net: NetName=MCU_SCL_1 Pin=R114-2
+Removed Member From Class: ClassName=U_RTC_Sec Member=C5
+Removed Member From Class: ClassName=U_RTC_Sec Member=C6
+Removed Member From Class: ClassName=U_Audio_Codec_Sec Member=C11
+Removed Member From Class: ClassName=U_3G_Modem Member=C12
+Removed Member From Class: ClassName=U_Audio_Codec_Sec Member=C12
+Removed Member From Class: ClassName=U_Audio_Codec_Sec Member=C13
+Removed Member From Class: ClassName=U_Audio_Codec_Sec Member=C14
+Removed Member From Class: ClassName=U_Headphones_Sec Member=C15
+Removed Member From Class: ClassName=U_RS-232 Tranceiver Section Member=C15
+Removed Member From Class: ClassName=U_Headphones_Sec Member=C16
+Removed Member From Class: ClassName=U_USIM_Sec Member=C27
+Removed Member From Class: ClassName=U_USIM_Sec Member=C28
+Removed Member From Class: ClassName=U_USB_Power Member=C36
+Removed Member From Class: ClassName=U_Connector_Section Member=C53
+Removed Member From Class: ClassName=U_USB_OTG Member=C56
+Removed Member From Class: ClassName=U_USIM_Sec Member=D4
+Removed Member From Class: ClassName=U_USB_Power Member=D7
+Removed Member From Class: ClassName=U_MCU_Core_Power Member=D10
+Removed Member From Class: ClassName=U_Headphones_Sec Member=J1
+Removed Member From Class: ClassName=U_RS-232 Tranceiver Section Member=J6
+Removed Member From Class: ClassName=U_USB_Power Member=Q4
+Removed Member From Class: ClassName=U_3G_Modem Member=R7
+Removed Member From Class: ClassName=U_Headphones_Sec Member=R15
+Removed Member From Class: ClassName=U_Main_Cont Member=R15
+Removed Member From Class: ClassName=U_Main_Cont Member=R16
+Removed Member From Class: ClassName=U_Main_Cont Member=R17
+Removed Member From Class: ClassName=U_Main_Cont Member=R18
+Removed Member From Class: ClassName=U_3G_Modem Member=R21
+Removed Member From Class: ClassName=U_Camera_Section Member=R23
+Removed Member From Class: ClassName=U_Key_Buttons Member=R25
+Removed Member From Class: ClassName=U_Sensor_Section Member=R31
+Removed Member From Class: ClassName=U_LCD_Section Member=R73
+Removed Member From Class: ClassName=U_USIM_Sec Member=R73
+Removed Member From Class: ClassName=U_Main_Cont_2 Member=R75
+Removed Member From Class: ClassName=U_LCD_Section Member=R78
+Removed Member From Class: ClassName=U_LCD_Section Member=R81
+Removed Member From Class: ClassName=U_Audio_Codec_Sec Member=U2
+Removed Member From Class: ClassName=U_Level_Shifter_Sec Member=U10
+Removed Member From Class: ClassName=U_RS-232 Tranceiver Section Member=U10
+Added Component: Designator=R126(Res-0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.009inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.024inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0201FT402K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "50mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 10=0.02700, 100=0.01090, 1000=0.00488, 2500=0.00423, 5000=0.00350 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "402kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RMCF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "4361"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0201FT402KCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.012inch"; VariantName = "[No Variations]"
+Added Component: Designator=U4(S5P4418)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "S5P4418"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_I2S.MCU_I2S_MCLK Pin=D9-1
+Added Pin To Net: NetName=MCU_I2C.MCU_SDA_0 Pin=R5-1
+Added Pin To Net: NetName=MCU_I2S.MCU_I2S_MCLK Pin=R81-2
+Added Pin To Net: NetName=MCU_I2C.MCU_SCL_0 Pin=R89-1
+Added Pin To Net: NetName=LCD_B4 Pin=R91-1
+Added Pin To Net: NetName=LCD_B5 Pin=R93-1
+Added Pin To Net: NetName=MCU_I2S.MCU_I2S_BCK Pin=R97-1
+Added Pin To Net: NetName=LCD_B6 Pin=R103-1
+Added Pin To Net: NetName=MCU_I2S.MCU_I2S_BCK Pin=R109-2
+Added Pin To Net: NetName=MCU_I2C.MCU_SCL_0 Pin=R112-2
+Added Pin To Net: NetName=LCD_B4 Pin=R113-2
+Added Pin To Net: NetName=LCD_B5 Pin=R114-2
+Added Pin To Net: NetName=LCD_B6 Pin=R115-2
+Added Pin To Net: NetName=FB Pin=R126-1
+Added Pin To Net: NetName=VCC1P0_CORE_DC Pin=R126-2
+Added Pin To Net: NetName=MCU_I2S.MCU_I2S_SDOUT Pin=U1-10
+Added Pin To Net: NetName=VCC 3P3_SYS Pin=U4-1
+Added Pin To Net: NetName=MCU_BACKLIGHT_PWM Pin=U4-2
+Added Pin To Net: NetName=MCU_TOUCH_INT Pin=U4-3
+Added Pin To Net: NetName=MCU_NRESETOUT Pin=U4-4
+Added Pin To Net: NetName=MCU_VG_EN Pin=U4-5
+Added Pin To Net: NetName=MCU_SDA_2 Pin=U4-6
+Added Pin To Net: NetName=MCU_SCL_2 Pin=U4-7
+Added Pin To Net: NetName=MCU_SDA_1 Pin=U4-8
+Added Pin To Net: NetName=MCU_SCL_1 Pin=U4-9
+Added Pin To Net: NetName=MCU_USB_HOST.MCU_USB_HOST_D- Pin=U4-12
+Added Pin To Net: NetName=MCU_USB_HOST.MCU_USB_HOST_D+ Pin=U4-13
+Added Pin To Net: NetName=MCU_OTG_PWRON Pin=U4-14
+Added Pin To Net: NetName=MCU_USB- Pin=U4-15
+Added Pin To Net: NetName=MCU_USB+ Pin=U4-16
+Added Pin To Net: NetName=DC5V_OTG Pin=U4-17
+Added Pin To Net: NetName=MCU_USB- Pin=U4-18
+Added Pin To Net: NetName=LCD_R0 Pin=U4-19
+Added Pin To Net: NetName=LCD_R2 Pin=U4-21
+Added Pin To Net: NetName=LCD_R4 Pin=U4-23
+Added Pin To Net: NetName=LCD_R5 Pin=U4-24
+Added Pin To Net: NetName=LCD_R6 Pin=U4-25
+Added Pin To Net: NetName=LCD_R7 Pin=U4-26
+Added Pin To Net: NetName=LCD_G0 Pin=U4-27
+Added Pin To Net: NetName=LCD_G2 Pin=U4-29
+Added Pin To Net: NetName=LCD_G4 Pin=U4-31
+Added Pin To Net: NetName=LCD_G6 Pin=U4-33
+Added Pin To Net: NetName=LCD_B0 Pin=U4-35
+Added Pin To Net: NetName=LCD_B3 Pin=U4-38
+Added Pin To Net: NetName=LCD_B4 Pin=U4-39
+Added Pin To Net: NetName=LCD_B5 Pin=U4-40
+Added Pin To Net: NetName=LCD_B6 Pin=U4-41
+Added Pin To Net: NetName=LCD_B7 Pin=U4-42
+Added Pin To Net: NetName=LCD_HSYNC Pin=U4-44
+Added Pin To Net: NetName=LCD_SIG.LCD_VSYNC Pin=U4-45
+Added Pin To Net: NetName=LCD_CLK Pin=U4-46
+Added Pin To Net: NetName=VCC1P0_CORE_DC Pin=U4-47
+Added Pin To Net: NetName=VCC1P0_CORE_DC Pin=U4-48
+Added Pin To Net: NetName=VBAT Pin=U4-49
+Added Pin To Net: NetName=VBAT Pin=U4-50
+Added Pin To Net: NetName=GND Pin=U4-51
+Added Pin To Net: NetName=GND Pin=U4-52
+Added Pin To Net: NetName=VBAT_SYS Pin=U4-53
+Added Pin To Net: NetName=VBAT_SYS Pin=U4-54
+Added Pin To Net: NetName=DCIN Pin=U4-55
+Added Pin To Net: NetName=DCIN Pin=U4-56
+Added Pin To Net: NetName=MCU_PWREN_SYS Pin=U4-57
+Added Pin To Net: NetName=CAM_2.8V Pin=U4-58
+Added Pin To Net: NetName=CAM_1.8V Pin=U4-59
+Added Pin To Net: NetName=MCU_I2C.MCU_SDA_0 Pin=U4-79
+Added Pin To Net: NetName=GND Pin=U4-90
+Added Pin To Net: NetName=GND Pin=U4-101
+Added Pin To Net: NetName=MCU_I2S.MCU_I2S_SDIN Pin=U4-124
+Added Pin To Net: NetName=VBAT_USB Pin=U4-125
+Added Pin To Net: NetName=MCU_I2S.MCU_I2S_LRCK Pin=U4-126
+Added Pin To Net: NetName=MCU_HP_DET Pin=U4-127
+Added Pin To Net: NetName=CAM_H Pin=U4-128
+Added Pin To Net: NetName=CAM_SIG.CAM_V Pin=U4-129
+Added Pin To Net: NetName=CAM_D3 Pin=U4-134
+Added Pin To Net: NetName=CAM_D4 Pin=U4-135
+Added Pin To Net: NetName=CAM_D5 Pin=U4-136
+Added Pin To Net: NetName=CAM_D6 Pin=U4-137
+Added Pin To Net: NetName=CAM_D7 Pin=U4-138
+Added Pin To Net: NetName=CAM_PD Pin=U4-139
+Added Pin To Net: NetName=CAM_RST Pin=U4-140
+Added Pin To Net: NetName=CAM_PN Pin=U4-141
+Added Pin To Net: NetName=MCU_CAM1_MCLK Pin=U4-142
+Added Pin To Net: NetName=UART_SIG.UARTRXD3 Pin=U4-143
+Added Pin To Net: NetName=UART_SIG.UARTTXD3 Pin=U4-144
+Added Pin To Net: NetName=UART_SIG.UARTRXD1 Pin=U4-147
+Added Pin To Net: NetName=UART_SIG.UARTTXD1 Pin=U4-148
+Added Pin To Net: NetName=UART_SIG.UARTRXD0 Pin=U4-149
+Added Pin To Net: NetName=UART_SIG.UARTTXD0 Pin=U4-150
+Added Pin To Net: NetName=MCU_KEY.MCU_KEY_VOLDN Pin=U4-156
+Added Pin To Net: NetName=MCU_KEY.MCU_KEY_VOLUP Pin=U4-157
+Added Pin To Net: NetName=MCU_SEN0_INT Pin=U4-158
+Added Pin To Net: NetName=MCU_KEY.MCU_RESETIN Pin=U4-159
+Added Pin To Net: NetName=MCU_KEY.MCU_PWR_KEY Pin=U4-160
+Added Pin To Net: NetName=GPIOC7 Pin=U4-162
+Added Pin To Net: NetName=GPIOB8 Pin=U4-163
+Added Pin To Net: NetName=GPIOC11 Pin=U4-165
+Added Pin To Net: NetName=VCC 1P8_RTC Pin=U4-169
+Added Pin To Net: NetName=MCU_SD1.MCU_SD1_CD Pin=U4-170
+Added Pin To Net: NetName=MCU_SD1.MCU_SD1_CLK Pin=U4-171
+Added Pin To Net: NetName=MCU_SD1.MCU_SD1_CMD Pin=U4-172
+Added Pin To Net: NetName=MCU_SD1.MCU_SD1_D0 Pin=U4-173
+Added Pin To Net: NetName=MCU_SD1.MCU_SD1_D1 Pin=U4-174
+Added Pin To Net: NetName=MCU_SD1.MCU_SD1_D2 Pin=U4-175
+Added Pin To Net: NetName=MCU_SD1.MCU_SD1_D3 Pin=U4-176
+Added Pin To Net: NetName=MCU_SD0.MCU_SD0_CD Pin=U4-177
+Added Pin To Net: NetName=MCU_SD0.MCU_SD0_D3 Pin=U4-178
+Added Pin To Net: NetName=MCU_SD0.MCU_SD0_D2 Pin=U4-179
+Added Pin To Net: NetName=MCU_SD0.MCU_SD0_D1 Pin=U4-180
+Added Pin To Net: NetName=MCU_SD0.MCU_SD0_D0 Pin=U4-181
+Added Pin To Net: NetName=MCU_SD0.MCU_SD0_CMD Pin=U4-182
+Added Pin To Net: NetName=MCU_SD0.MCU_SD0_CLK Pin=U4-183
+Added Pin To Net: NetName=GND Pin=U4-184
+Change Net Name : Old Net Name=MCU_I2C.MCU_SCL_0 New Net Name=LCD_B3
+Change Net Name : Old Net Name=MCU_I2S.MCU_I2S_BCK New Net Name=LCD_B0
+Change Net Name : Old Net Name=MCU_I2S.MCU_I2S_MCLK New Net Name=VBAT_USB
+Change Net Name : Old Net Name=VBAT_USB New Net Name=MCU_I2S.MCU_I2S_SDOUT
+Added Pin To Net: NetName=MCU_I2S.MCU_I2S_MCLK Pin=U4-122
+Added Net: Name=MCU_I2S.MCU_I2S_MCLK
+Added Member To Class: ClassName=U_MIC_Sec Member=Component C1 4.7uF
+Added Member To Class: ClassName=U_MIC_Sec Member=Component C2 1uF
+Added Member To Class: ClassName=U_Audio_Codec_Sec Member=Component C3 0.1uF
+Added Member To Class: ClassName=U_Audio_Codec_Sec Member=Component C4 10uF
+Added Member To Class: ClassName=U_Audio_Codec_Sec Member=Component C9 0.1uF
+Added Member To Class: ClassName=U_Headphones_Sec Member=Component C11 4.7uF
+Added Member To Class: ClassName=U_RTC_Sec Member=Component C13 0.1uF
+Added Member To Class: ClassName=U_RTC_Sec Member=Component C14 0.1uF
+Added Member To Class: ClassName=U_3G_Modem Member=Component C16 Cap
+Added Member To Class: ClassName=U_USIM_Sec Member=Component C25 100uF
+Added Member To Class: ClassName=U_USIM_Sec Member=Component C26 100uF
+Added Member To Class: ClassName=U_Camera_Section Member=Component C31 1uF
+Added Member To Class: ClassName=U_Camera_Section Member=Component C32 10uF
+Added Member To Class: ClassName=U_Key_Buttons Member=Component C33 1uF
+Added Member To Class: ClassName=U_Key_Buttons Member=Component C34 1uF
+Added Member To Class: ClassName=U_Sensor_Section Member=Component C35 Cap
+Added Member To Class: ClassName=U_USB_Power Member=Component C40 0.1uF
+Added Member To Class: ClassName=U_Connector_Section Member=Component C49 0.1uF
+Added Member To Class: ClassName=U_USB_OTG Member=Component C57 10uF
+Added Member To Class: ClassName=U_USB_Host Member=Component C61 10uF
+Added Member To Class: ClassName=U_USB_Host Member=Component C62 10uF
+Added Member To Class: ClassName=U_Level_Shifter_Sec Member=Component C77 0.1uF
+Added Member To Class: ClassName=U_RS-232 Tranceiver Section Member=Component C79 0.1uF
+Added Member To Class: ClassName=U_RS-232 Tranceiver Section Member=Component C80 0.1uF
+Added Member To Class: ClassName=U_RS-232 Tranceiver Section Member=Component C81 0.1uF
+Added Member To Class: ClassName=U_RS-232 Tranceiver Section Member=Component C82 0.1uF
+Added Member To Class: ClassName=U_USIM_Sec Member=Component D9 ESD9L5.0ST5G
+Added Member To Class: ClassName=U_USB_Power Member=Component D12 SS34-E3/57T
+Added Member To Class: ClassName=U_Headphones_Sec Member=Component J2 SJ-43504-SMT-TR
+Added Member To Class: ClassName=U_Connector_Section Member=Component J7 0527460471
+Added Member To Class: ClassName=U_Memory_Section Member=Component J9 114-00841-68
+Added Member To Class: ClassName=U_USB_Host Member=Component J12 87583-2010BLF
+Added Member To Class: ClassName=U_RS-232 Tranceiver Section Member=Component J16 S2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=U_3G_Modem Member=Component Q1 MMBT3904
+Added Member To Class: ClassName=U_3G_Modem Member=Component Q2 MMBT3904
+Added Member To Class: ClassName=U_USB_Power Member=Component Q5 MMBT3904
+Added Member To Class: ClassName=U_USB_Power Member=Component Q6 CJ2305
+Added Member To Class: ClassName=U_MIC_Sec Member=Component R1 680R
+Added Member To Class: ClassName=U_MIC_Sec Member=Component R2 5.6K
+Added Member To Class: ClassName=U_MIC_Sec Member=Component R3 680R
+Added Member To Class: ClassName=U_Audio_Codec_Sec Member=Component R4 100R
+Added Member To Class: ClassName=U_Audio_Codec_Sec Member=Component R5 100R
+Added Member To Class: ClassName=U_Audio_Codec_Sec Member=Component R6 0R
+Added Member To Class: ClassName=U_Headphones_Sec Member=Component R8 10K
+Added Member To Class: ClassName=U_3G_Modem Member=Component R10 0R
+Added Member To Class: ClassName=U_3G_Modem Member=Component R11 47K
+Added Member To Class: ClassName=U_3G_Modem Member=Component R12 0R
+Added Member To Class: ClassName=U_3G_Modem Member=Component R13 4.7K
+Added Member To Class: ClassName=U_3G_Modem Member=Component R16 47K
+Added Member To Class: ClassName=U_3G_Modem Member=Component R17 10K
+Added Member To Class: ClassName=U_3G_Modem Member=Component R19 5.1K
+Added Member To Class: ClassName=U_Main_Cont Member=Component R20 470R
+Added Member To Class: ClassName=U_Main_Cont Member=Component R22 470R
+Added Member To Class: ClassName=U_Camera_Section Member=Component R26 100R
+Added Member To Class: ClassName=U_Camera_Section Member=Component R27 33R
+Added Member To Class: ClassName=U_Key_Buttons Member=Component R28 10K
+Added Member To Class: ClassName=U_Key_Buttons Member=Component R29 100R
+Added Member To Class: ClassName=U_Key_Buttons Member=Component R30 100R
+Added Member To Class: ClassName=U_Key_Buttons Member=Component R33 100R
+Added Member To Class: ClassName=U_Key_Buttons Member=Component R34 10K
+Added Member To Class: ClassName=U_Sensor_Section Member=Component R40 2.2K
+Added Member To Class: ClassName=U_Memory_Section Member=Component R60 100R
+Added Member To Class: ClassName=U_Memory_Section Member=Component R61 47K
+Added Member To Class: ClassName=U_Memory_Section Member=Component R62 100R
+Added Member To Class: ClassName=U_Memory_Section Member=Component R63 47K
+Added Member To Class: ClassName=U_USB_OTG Member=Component R66 6.8K
+Added Member To Class: ClassName=U_USB_OTG Member=Component R68 100K
+Added Member To Class: ClassName=U_USB_Host Member=Component R69 10K
+Added Member To Class: ClassName=U_USB_Host Member=Component R70 47K
+Added Member To Class: ClassName=U_USB_Host Member=Component R71 680R
+Added Member To Class: ClassName=U_USB_Host Member=Component R72 510K
+Added Member To Class: ClassName=U_USB_Host Member=Component R74 10K
+Added Member To Class: ClassName=U_USIM_Sec Member=Component R77 50R
+Added Member To Class: ClassName=U_USIM_Sec Member=Component R79 50R
+Added Member To Class: ClassName=U_USIM_Sec Member=Component R80 50R
+Added Member To Class: ClassName=U_Main_Cont_2 Member=Component R82 470R
+Added Member To Class: ClassName=U_RS-232 Tranceiver Section Member=Component R83 100R
+Added Member To Class: ClassName=U_RS-232 Tranceiver Section Member=Component R84 100R
+Added Member To Class: ClassName=U_LCD_Section Member=Component R85 22R
+Added Member To Class: ClassName=U_LCD_Section Member=Component R86 22R
+Added Member To Class: ClassName=U_LCD_Section Member=Component R87 22R
+Added Member To Class: ClassName=U_LCD_Section Member=Component R88 22R
+Added Member To Class: ClassName=U_MCU_Core_Power Member=Component R126 402K
+Added Member To Class: ClassName=U_3G_Modem Member=Component U3 SIM7100AS2-10671
+Added Member To Class: ClassName=U_Main_Cont Member=Component U4 S5P4418
+Added Member To Class: ClassName=U_Sensor_Section Member=Component U5 ICM-42688-P
+Added Member To Class: ClassName=U_USB_OTG Member=Component U9 SY6280AAC
+Added Member To Class: ClassName=U_Level_Shifter_Sec Member=Component U11 S-1206B18-M3T1U
+Added Member To Class: ClassName=U_RS-232 Tranceiver Section Member=Component U12 SP3222EEY-L/TR
