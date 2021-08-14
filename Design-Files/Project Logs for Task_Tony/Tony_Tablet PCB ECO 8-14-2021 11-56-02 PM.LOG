@@ -1,0 +1,12 @@
+Change Component Description : Designator=Q3 Old Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS New Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS
+Change Component Description : Designator=Q6 Old Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS New Description=P-Channel -12V 4.1A 900mV @ 250uA 45mO @ 3.5A,4.5V 350mW SOT-23(SOT-23-3) MOSFET RoHS
+Added Component: Designator=R79(Res-0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TNPW020150R0DEED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MP9403EN-LF-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USIM_CLK Pin=R79-1
+Added Pin To Net: NetName=NetR79_2 Pin=R79-2
+Added Member To Class: ClassName=U_USIM_Sec Member=Component R79 50R
