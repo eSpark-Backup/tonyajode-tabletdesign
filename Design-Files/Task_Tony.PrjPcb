@@ -316,7 +316,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=34
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -803,23 +803,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document46]
-DocumentPath=LCD_Section.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document47]
 DocumentPath=Task_Tony.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=3G_Modem.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=BLE&WiFi_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=Tony_Tablet.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,8 +870,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNCUNVWC
 
-[Document51]
+[Document50]
 DocumentPath=LCD_Section.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=35
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SGHLXCGU
+
+[Document51]
+DocumentPath=7''_LCD_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -902,7 +902,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SGHLXCGU
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
