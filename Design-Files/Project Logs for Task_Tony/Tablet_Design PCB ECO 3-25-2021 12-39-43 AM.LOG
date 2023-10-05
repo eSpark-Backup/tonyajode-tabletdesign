@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=SDA Pin=R48-1
-Removed Pin From Net: NetName=GND Pin=U1-2
-Added Pin To Net: NetName=NetC40_2 Pin=R48-1
-Added Pin To Net: NetName=SDA Pin=R48-1
-Added Pin To Net: NetName=VCC 3P3_SYS Pin=R48-2
-Added Member To Class: ClassName=U_Sensor_Section Member=Component R48 10K
